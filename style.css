@@ -8,6 +8,10 @@
   --displayColor:#242424;
   --displayFontColor:#fdfdfd;
 }
+body ::selection{
+  background-color: var(--displayFontColor);
+  color: var(--displayColor);
+}
 .main-container{
   width: 100vw;
   height: 100vh;
@@ -70,6 +74,7 @@ a{
   height: 30px;
 }
 .history{
+  
   color: var(--displayFontColor);
   letter-spacing: 0.2rem;
   font-size: 2.5rem;
@@ -175,6 +180,9 @@ a{
  button:hover{
   background-color: var(--displayColor);
   color: var(--displayFontColor);
+ }
+ li{
+  list-style: none;
  }
  
  
