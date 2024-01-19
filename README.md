@@ -1,5 +1,7 @@
 # Counter-Liczydlo
-Counter for people that love aestheitc and want to focus on the work
+Counter for people who love aesthetics and want to FOCUS on the work
+A-most important, B - important, etc...
+
 
 24.01.19
 Things to do, add, and fix (about that I am aware of):
